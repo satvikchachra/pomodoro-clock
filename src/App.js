@@ -125,15 +125,7 @@ class App extends Component {
 
           // For audio notification when the timer ends
 
-          const playPromise = audio.play();
-
-          if (playPromise !== undefined) {
-            playPromise.then(_ => {
-            })
-              .catch(error => {
-                console.log(error);
-              });
-          }
+          audio.play();
 
         } else {
 
