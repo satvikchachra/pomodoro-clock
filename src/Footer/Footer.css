@@ -1,0 +1,39 @@
+.social-icons {
+    margin: 10px;
+}
+
+.social-icons i:hover {
+    transform: scale(1.2);
+}
+
+.social-icons i {
+    display: inline-block;
+    margin: 10px;
+    transition: transform .2s;
+}
+
+.social-icons a {
+    text-decoration: none;
+}
+
+.made-with {
+    margin: 0px;
+}
+
+.connect-with {
+    margin: 0px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:link, a:visited, a:hover, a:active {
+    color: #ffffff;
+}
+
+@media only screen and (max-width: 375px) {
+    * {
+        transform: scale(0.98);
+    }
+}
