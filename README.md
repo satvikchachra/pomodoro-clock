@@ -5,7 +5,7 @@
 * This app is inspired by Pomodoro Technique which is a time management method developed by Francesco Cirillo.
 
 ### View Live Demo
-<pre><a href="https://satvikchachra.github.io/pomodoro-clock"><b>satvikchachra.github.io/pomodoro-clock</b></pre>
+<pre><a href="https://satvikchachra.github.io/pomodoro-clock"><b>satvikchachra.github.io/pomodoro-clock</b></a></pre>
 
 ### Images
 <details>
@@ -42,12 +42,12 @@ npm install
 npm start
 ```
 
-
-
-
 ## Learn More
-You can learn more in the [Create React App Documentation](https://github.com/facebook/create-react-app).
-To learn React, checkout the [React Documentation](https://reactjs.org/).
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
+To learn React, check out the [React documentation](https://reactjs.org/).
+
 
 ##### Made with ♥ by <a href="https://github.com/satvikchachra">satvikchachra</a>
 
